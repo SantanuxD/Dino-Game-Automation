@@ -24,7 +24,7 @@ Type the given line of code and press enter👇
 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/64271130/106570054-66705800-655b-11eb-9f3a-79942e301870.png">
 
-* Step 5
+* <i>Step 5 : </i>
 Now enjoy !!!!!!
 
 ## Connect with me on social media📲  
