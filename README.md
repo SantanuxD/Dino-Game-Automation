@@ -1,3 +1,3 @@
 # Dino-Game-Automation🦕
 
-Ever thought to beat your friends in Chrome dino game ? Here's a simple trick with just one line of code.
+Ever thought of beating your friends in Chrome dino game ? Here's a simple trick for unlimited scoring with just one line of code.
